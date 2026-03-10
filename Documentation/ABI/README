@@ -8,6 +8,8 @@ We have four different levels of ABI stability, as shown by the four
 different subdirectories in this location.  Interfaces may change levels
 of stability according to the rules described below.
 
+topaza comment
+
 The different levels of stability are:
 
   stable/
